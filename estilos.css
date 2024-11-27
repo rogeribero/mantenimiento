@@ -22,7 +22,7 @@ a:hover {    /* indica el estilo cuando el cursor está sobre el elemento */
 .footer { /* Estilo del footer del sitio, o pie de página*/
 	position: absolute;
 	bottom: 0px;
-	width: 100%; 
+	width: 90%; 
 	margin: auto;  
 	text-align: center;
 	background-color:rgb(121, 69, 27);
